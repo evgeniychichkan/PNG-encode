@@ -9,7 +9,13 @@
   },
   "author": "Chichkan E.M.",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evgeniychichkan/PNG-encode.git"
+  },
   "dependencies": {
-    "pngjs": "^2.3.1"
+    "pngjs": "^2.3.1",
+    "pngjs2": "^2.0.0",
+    "request": "^2.72.0"
   }
 }
